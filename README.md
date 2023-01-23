@@ -1,8 +1,6 @@
 [![MasterHead](https://cdn.ttgtmedia.com/visuals/searchCIO/enterprise_software/cio_article_015.jpg)](https://VedPrakash-Gupta.io)
 <h1 align="center">Hi 👋, I'm VedPrakash-Gupta</h1>
 <h3 align="center">Proven Computer Science Professional with experience of 4+ years in Data Science and Project Management.</h3>
-<img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/3959348.jpg">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedprakash-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="vedprakash-gupta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedprakash-gupta" alt="vedprakash-gupta" /></a> </p>
